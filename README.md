@@ -1,1 +1,0 @@
-# yokohama-bus-realtime-23-wakabadai
