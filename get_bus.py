@@ -6,64 +6,64 @@ from concurrent.futures import ThreadPoolExecutor
 
 courses = [
 {
-    "courseId": "0001601364",
-    "route": "41系統",
-    "destination": "下町会館経由 新横浜駅前行",
-    "direction": "shinyokohama"
+    "courseId": "0001600093",
+    "route": "23系統",
+    "destination": "郵便局前経由 若葉台中央行",
+    "direction": "wakabadai"
 },
 {
-    "courseId": "0001600147",
-    "route": "41系統",
-    "destination": "太尾西住宅経由 新横浜駅前行",
-    "direction": "shinyokohama"
+    "courseId": "0001600497",
+    "route": "23系統",
+    "destination": "郵便局前経由 若葉台中央行",
+    "direction": "wakabadai"
 },
 {
-    "courseId": "0001600877",
-    "route": "41系統",
-    "destination": "太尾西住宅経由 港北車庫前行",
-    "direction": "shinyokohama"
+    "courseId": "0001601239",
+    "route": "55系統",
+    "destination": "中丸入口経由 若葉台中央行",
+    "direction": "wakabadai"
 },
 {
-    "courseId": "0001600822",
-    "route": "41系統",
-    "destination": "太尾西住宅経由 鶴見駅西口行",
-    "direction": "shinyokohama"
+    "courseId": "0001601242",
+    "route": "55系統",
+    "destination": "中丸入口経由 若葉台中央行",
+    "direction": "wakabadai"
 },
 {
-    "courseId": "0001600828",
-    "route": "41系統",
-    "destination": "太尾西住宅経由 鶴見駅西口行",
-    "direction": "turumi"
+    "courseId": "0001600188",
+    "route": "65系統",
+    "destination": "保育園前経由 若葉台中央行",
+    "direction": "wakabadai"
 },
 {
-    "courseId": "0001600809",
-    "route": "41系統",
-    "destination": "菊名駅前経由 鶴見駅西口行",
-    "direction": "turumi"
+    "courseId": "0001600591",
+    "route": "65系統",
+    "destination": "保育園前経由 若葉台中央行",
+    "direction": "wakabadai"
 },
 {
-    "courseId": "0001600839",
-    "route": "41系統",
-    "destination": "菊名駅前経由 鶴見駅西口行",
-    "direction": "turumi"
+    "courseId": "0001600097",
+    "route": "65系統",
+    "destination": "地区公園前経由 若葉台中央行",
+    "direction": "wakabadai"
 },
 {
-    "courseId": "0001601360",
-    "route": "41系統",
-    "destination": "菊名駅前経由 新横浜駅前行",
-    "direction": "up"
+    "courseId": "0001600337",
+    "route": "65系統",
+    "destination": "地区公園前経由 若葉台中央行",
+    "direction": "wakabadai"
 },
 {
-    "courseId": "0001601362",
-    "route": "41系統",
-    "destination": "菊名駅前経由 新横浜駅前行",
-    "direction": "up"
+    "courseId": "0001601226",
+    "route": "345系統急行",
+    "destination": "星槎高校前経由 若葉台中央行",
+    "direction": "wakabadai"
 },
 {
-    "courseId": "0001601361",
-    "route": "41系統",
-    "destination": "菊名駅前経由 港北車庫前行",
-    "direction": "up"
+    "courseId": "0001601233",
+    "route": "345系統急行",
+    "destination": "星槎高校前経由 若葉台中央行",
+    "direction": "wakabadai"
 },
 {
     "courseId": "0001600345",
