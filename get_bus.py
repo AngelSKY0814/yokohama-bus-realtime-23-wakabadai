@@ -65,7 +65,66 @@ courses = [
     "destination": "星槎高校前経由 若葉台中央行",
     "direction": "wakabadai"
 },
-
+{
+    "courseId": "0001600070",
+    "route": "23系統",
+    "destination": "郵便局前経由 青葉台駅行",
+    "direction": "up"
+},
+{
+    "courseId": "0001600037",
+    "route": "23系統",
+    "destination": "郵便局前経由 十日市場駅前行",
+    "direction": "up"
+},
+{
+    "courseId": "0001600399",
+    "route": "23系統",
+    "destination": "新治小学校前経由 青葉台駅行",
+    "direction": "up"
+},
+{
+    "courseId": "0001601231",
+    "route": "55系統",
+    "destination": "中丸入口経由 青葉台駅行",
+    "direction": "up"
+},
+{
+    "courseId": "0001601237",
+    "route": "55系統",
+    "destination": "中丸入口経由 青葉台駅行",
+    "direction": "up"
+},
+{
+    "courseId": "0001601192",
+    "route": "55系統",
+    "destination": "中丸入口経由 十日市場駅前行",
+    "direction": "up"
+},
+{
+    "courseId": "0001600566",
+    "route": "65系統",
+    "destination": "保育園前経由 青葉台駅行",
+    "direction": "up"
+},
+{
+    "courseId": "0001600050",
+    "route": "65系統",
+    "destination": "保育園前経由 十日市場駅前行",
+    "direction": "up"
+},
+{
+    "courseId": "0001600003",
+    "route": "65系統",
+    "destination": "地区公園前経由 青葉台駅行",
+    "direction": "up"
+},
+{
+    "courseId": "0001600125",
+    "route": "65系統",
+    "destination": "地区公園前経由 十日市場駅前行",
+    "direction": "up"
+},
 ]
 
 headers = {
