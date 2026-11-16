@@ -693,6 +693,811 @@
           "name": "若葉台中央",
           "latitude": 35.506394,
           "longitude": 139.498429
+             }
+      ]
+    },
+    {
+      "courseId": "0001600070",
+      "route": "23系統",
+      "destination": "郵便局前経由 青葉台駅行",
+      "direction": "up",
+      "stopCount": 15,
+      "stops": [
+        {
+          "name": "若葉台中央",
+          "latitude": 35.506632,
+          "longitude": 139.498214
+        },
+        {
+          "name": "若葉台車庫前",
+          "latitude": 35.509033,
+          "longitude": 139.500402
+        },
+        {
+          "name": "霧が丘高校前",
+          "latitude": 35.510513,
+          "longitude": 139.502913
+        },
+        {
+          "name": "霧が丘センター前",
+          "latitude": 35.512682,
+          "longitude": 139.503282
+        },
+        {
+          "name": "郵便局前（緑区）",
+          "latitude": 35.514067,
+          "longitude": 139.506649
+        },
+        {
+          "name": "萱場公園入口",
+          "latitude": 35.516629,
+          "longitude": 139.507927
+        },
+        {
+          "name": "遊水池前",
+          "latitude": 35.519073,
+          "longitude": 139.507614
+        },
+        {
+          "name": "中山谷",
+          "latitude": 35.520992,
+          "longitude": 139.507833
+        },
+        {
+          "name": "十日市場",
+          "latitude": 35.524452,
+          "longitude": 139.510741
+        },
+        {
+          "name": "十日市場駅前",
+          "latitude": 35.526139,
+          "longitude": 139.515877
+        },
+        {
+          "name": "青葉台営業所前",
+          "latitude": 35.531762,
+          "longitude": 139.517242
+        },
+        {
+          "name": "しらとり台",
+          "latitude": 35.534332,
+          "longitude": 139.517397
+        },
+        {
+          "name": "つつじが丘（青葉区）",
+          "latitude": 35.537013,
+          "longitude": 139.517149
+        },
+        {
+          "name": "えのき橋",
+          "latitude": 35.541304,
+          "longitude": 139.516366
+        },
+        {
+          "name": "青葉台駅",
+          "latitude": 35.543798,
+          "longitude": 139.516912
+        }
+      ]
+    },
+    {
+      "courseId": "0001600037",
+      "route": "23系統",
+      "destination": "郵便局前経由 十日市場駅前行",
+      "direction": "up",
+      "stopCount": 10,
+      "stops": [
+        {
+          "name": "若葉台中央",
+          "latitude": 35.506632,
+          "longitude": 139.498214
+        },
+        {
+          "name": "若葉台車庫前",
+          "latitude": 35.509033,
+          "longitude": 139.500402
+        },
+        {
+          "name": "霧が丘高校前",
+          "latitude": 35.510513,
+          "longitude": 139.502913
+        },
+        {
+          "name": "霧が丘センター前",
+          "latitude": 35.512682,
+          "longitude": 139.503282
+        },
+        {
+          "name": "郵便局前（緑区）",
+          "latitude": 35.514067,
+          "longitude": 139.506649
+        },
+        {
+          "name": "萱場公園入口",
+          "latitude": 35.516629,
+          "longitude": 139.507927
+        },
+        {
+          "name": "遊水池前",
+          "latitude": 35.519073,
+          "longitude": 139.507614
+        },
+        {
+          "name": "中山谷",
+          "latitude": 35.520992,
+          "longitude": 139.507833
+        },
+        {
+          "name": "十日市場",
+          "latitude": 35.524452,
+          "longitude": 139.510741
+        },
+        {
+          "name": "十日市場駅前",
+          "latitude": 35.526149,
+          "longitude": 139.516463
+        }
+      ]
+    },
+    {
+      "courseId": "0001600399",
+      "route": "23系統",
+      "destination": "新治小学校前経由 青葉台駅行",
+      "direction": "up",
+      "stopCount": 16,
+      "stops": [
+        {
+          "name": "三保中央",
+          "latitude": 35.513352,
+          "longitude": 139.522337
+        },
+        {
+          "name": "三保団地入口",
+          "latitude": 35.514655,
+          "longitude": 139.521978
+        },
+        {
+          "name": "杉沢",
+          "latitude": 35.517679,
+          "longitude": 139.522297
+        },
+        {
+          "name": "杉沢団地",
+          "latitude": 35.518618,
+          "longitude": 139.525701
+        },
+        {
+          "name": "三保小学校入口",
+          "latitude": 35.518777,
+          "longitude": 139.527584
+        },
+        {
+          "name": "新治町",
+          "latitude": 35.520299,
+          "longitude": 139.528016
+        },
+        {
+          "name": "新治小学校前",
+          "latitude": 35.52211,
+          "longitude": 139.524516
+        },
+        {
+          "name": "宝袋寺前",
+          "latitude": 35.523692,
+          "longitude": 139.520347
+        },
+        {
+          "name": "十日市場市営住宅入口",
+          "latitude": 35.523472,
+          "longitude": 139.515328
+        },
+        {
+          "name": "十日市場",
+          "latitude": 35.524166,
+          "longitude": 139.513013
+        },
+        {
+          "name": "十日市場駅前",
+          "latitude": 35.526139,
+          "longitude": 139.515877
+        },
+        {
+          "name": "青葉台営業所前",
+          "latitude": 35.531762,
+          "longitude": 139.517242
+        },
+        {
+          "name": "しらとり台",
+          "latitude": 35.534332,
+          "longitude": 139.517397
+        },
+        {
+          "name": "つつじが丘（青葉区）",
+          "latitude": 35.537013,
+          "longitude": 139.517149
+        },
+        {
+          "name": "えのき橋",
+          "latitude": 35.541304,
+          "longitude": 139.516366
+        },
+        {
+          "name": "青葉台駅",
+          "latitude": 35.543953,
+          "longitude": 139.516906
+        }
+      ]
+    },
+    {
+      "courseId": "0001601231",
+      "route": "55系統",
+      "destination": "中丸入口経由 青葉台駅行",
+      "direction": "up",
+      "stopCount": 17,
+      "stops": [
+        {
+          "name": "若葉台中央",
+          "latitude": 35.506394,
+          "longitude": 139.498429
+        },
+        {
+          "name": "ヴィンテージ前",
+          "latitude": 35.506733,
+          "longitude": 139.494775
+        },
+        {
+          "name": "星槎高校前",
+          "latitude": 35.506621,
+          "longitude": 139.491942
+        },
+        {
+          "name": "長津田南",
+          "latitude": 35.505989,
+          "longitude": 139.489628
+        },
+        {
+          "name": "北部斎場入口",
+          "latitude": 35.50842,
+          "longitude": 139.492214
+        },
+        {
+          "name": "長津田台",
+          "latitude": 35.512176,
+          "longitude": 139.496134
+        },
+        {
+          "name": "霧が丘西",
+          "latitude": 35.514649,
+          "longitude": 139.498584
+        },
+        {
+          "name": "霧ケ谷",
+          "latitude": 35.516072,
+          "longitude": 139.500128
+        },
+        {
+          "name": "中丸入口",
+          "latitude": 35.518421,
+          "longitude": 139.503824
+        },
+        {
+          "name": "中山谷",
+          "latitude": 35.520992,
+          "longitude": 139.507833
+        },
+        {
+          "name": "十日市場",
+          "latitude": 35.524452,
+          "longitude": 139.510741
+        },
+        {
+          "name": "十日市場駅前",
+          "latitude": 35.526139,
+          "longitude": 139.515877
+        },
+        {
+          "name": "青葉台営業所前",
+          "latitude": 35.531762,
+          "longitude": 139.517242
+        },
+        {
+          "name": "しらとり台",
+          "latitude": 35.534332,
+          "longitude": 139.517397
+        },
+        {
+          "name": "つつじが丘（青葉区）",
+          "latitude": 35.537013,
+          "longitude": 139.517149
+        },
+        {
+          "name": "えのき橋",
+          "latitude": 35.541304,
+          "longitude": 139.516366
+        },
+        {
+          "name": "青葉台駅",
+          "latitude": 35.543953,
+          "longitude": 139.516906
+        }
+      ]
+    },
+    {
+      "courseId": "0001601237",
+      "route": "55系統",
+      "destination": "中丸入口経由 青葉台駅行",
+      "direction": "up",
+      "stopCount": 16,
+      "stops": [
+        {
+          "name": "ヴィンテージ前",
+          "latitude": 35.506733,
+          "longitude": 139.494775
+        },
+        {
+          "name": "星槎高校前",
+          "latitude": 35.506621,
+          "longitude": 139.491942
+        },
+        {
+          "name": "長津田南",
+          "latitude": 35.505989,
+          "longitude": 139.489628
+        },
+        {
+          "name": "北部斎場入口",
+          "latitude": 35.50842,
+          "longitude": 139.492214
+        },
+        {
+          "name": "長津田台",
+          "latitude": 35.512176,
+          "longitude": 139.496134
+        },
+        {
+          "name": "霧が丘西",
+          "latitude": 35.514649,
+          "longitude": 139.498584
+        },
+        {
+          "name": "霧ケ谷",
+          "latitude": 35.516072,
+          "longitude": 139.500128
+        },
+        {
+          "name": "中丸入口",
+          "latitude": 35.518421,
+          "longitude": 139.503824
+        },
+        {
+          "name": "中山谷",
+          "latitude": 35.520992,
+          "longitude": 139.507833
+        },
+        {
+          "name": "十日市場",
+          "latitude": 35.524452,
+          "longitude": 139.510741
+        },
+        {
+          "name": "十日市場駅前",
+          "latitude": 35.526139,
+          "longitude": 139.515877
+        },
+        {
+          "name": "青葉台営業所前",
+          "latitude": 35.531762,
+          "longitude": 139.517242
+        },
+        {
+          "name": "しらとり台",
+          "latitude": 35.534332,
+          "longitude": 139.517397
+        },
+        {
+          "name": "つつじが丘（青葉区）",
+          "latitude": 35.537013,
+          "longitude": 139.517149
+        },
+        {
+          "name": "えのき橋",
+          "latitude": 35.541304,
+          "longitude": 139.516366
+        },
+        {
+          "name": "青葉台駅",
+          "latitude": 35.543953,
+          "longitude": 139.516906
+        }
+      ]
+    },
+    {
+      "courseId": "0001601192",
+      "route": "55系統",
+      "destination": "中丸入口経由 十日市場駅前行",
+      "direction": "up",
+      "stopCount": 11,
+      "stops": [
+        {
+          "name": "ヴィンテージ前",
+          "latitude": 35.506733,
+          "longitude": 139.494775
+        },
+        {
+          "name": "星槎高校前",
+          "latitude": 35.506621,
+          "longitude": 139.491942
+        },
+        {
+          "name": "長津田南",
+          "latitude": 35.505989,
+          "longitude": 139.489628
+        },
+        {
+          "name": "北部斎場入口",
+          "latitude": 35.50842,
+          "longitude": 139.492214
+        },
+        {
+          "name": "長津田台",
+          "latitude": 35.512176,
+          "longitude": 139.496134
+        },
+        {
+          "name": "霧が丘西",
+          "latitude": 35.514649,
+          "longitude": 139.498584
+        },
+        {
+          "name": "霧ケ谷",
+          "latitude": 35.516072,
+          "longitude": 139.500128
+        },
+        {
+          "name": "中丸入口",
+          "latitude": 35.518421,
+          "longitude": 139.503824
+        },
+        {
+          "name": "中山谷",
+          "latitude": 35.520992,
+          "longitude": 139.507833
+        },
+        {
+          "name": "十日市場",
+          "latitude": 35.524452,
+          "longitude": 139.510741
+        },
+        {
+          "name": "十日市場駅前",
+          "latitude": 35.526149,
+          "longitude": 139.516463
+        }
+      ]
+    },
+    {
+      "courseId": "0001600566",
+      "route": "65系統",
+      "destination": "保育園前経由 青葉台駅行",
+      "direction": "up",
+      "stopCount": 17,
+      "stops": [
+        {
+          "name": "若葉台中央",
+          "latitude": 35.506394,
+          "longitude": 139.498429
+        },
+        {
+          "name": "保育園前",
+          "latitude": 35.504598,
+          "longitude": 139.500174
+        },
+        {
+          "name": "若葉台南",
+          "latitude": 35.501519,
+          "longitude": 139.501347
+        },
+        {
+          "name": "若葉台近隣公園前",
+          "latitude": 35.502945,
+          "longitude": 139.503977
+        },
+        {
+          "name": "若葉台中学校前",
+          "latitude": 35.506046,
+          "longitude": 139.503279
+        },
+        {
+          "name": "霧が丘高校前",
+          "latitude": 35.510513,
+          "longitude": 139.502913
+        },
+        {
+          "name": "霧が丘公園前",
+          "latitude": 35.512526,
+          "longitude": 139.500712
+        },
+        {
+          "name": "霧ケ谷",
+          "latitude": 35.516072,
+          "longitude": 139.500128
+        },
+        {
+          "name": "中丸入口",
+          "latitude": 35.518421,
+          "longitude": 139.503824
+        },
+        {
+          "name": "中山谷",
+          "latitude": 35.520992,
+          "longitude": 139.507833
+        },
+        {
+          "name": "十日市場",
+          "latitude": 35.524452,
+          "longitude": 139.510741
+        },
+        {
+          "name": "十日市場駅前",
+          "latitude": 35.526139,
+          "longitude": 139.515877
+        },
+        {
+          "name": "青葉台営業所前",
+          "latitude": 35.531762,
+          "longitude": 139.517242
+        },
+        {
+          "name": "しらとり台",
+          "latitude": 35.534332,
+          "longitude": 139.517397
+        },
+        {
+          "name": "つつじが丘（青葉区）",
+          "latitude": 35.537013,
+          "longitude": 139.517149
+        },
+        {
+          "name": "えのき橋",
+          "latitude": 35.541304,
+          "longitude": 139.516366
+        },
+        {
+          "name": "青葉台駅",
+          "latitude": 35.543953,
+          "longitude": 139.516906
+        }
+      ]
+    },
+    {
+      "courseId": "0001600050",
+      "route": "65系統",
+      "destination": "保育園前経由 十日市場駅前行",
+      "direction": "up",
+      "stopCount": 12,
+      "stops": [
+        {
+          "name": "若葉台中央",
+          "latitude": 35.506394,
+          "longitude": 139.498429
+        },
+        {
+          "name": "保育園前",
+          "latitude": 35.504598,
+          "longitude": 139.500174
+        },
+        {
+          "name": "若葉台南",
+          "latitude": 35.501519,
+          "longitude": 139.501347
+        },
+        {
+          "name": "若葉台近隣公園前",
+          "latitude": 35.502945,
+          "longitude": 139.503977
+        },
+        {
+          "name": "若葉台中学校前",
+          "latitude": 35.506046,
+          "longitude": 139.503279
+        },
+        {
+          "name": "霧が丘高校前",
+          "latitude": 35.510513,
+          "longitude": 139.502913
+        },
+        {
+          "name": "霧が丘公園前",
+          "latitude": 35.512526,
+          "longitude": 139.500712
+        },
+        {
+          "name": "霧ケ谷",
+          "latitude": 35.516072,
+          "longitude": 139.500128
+        },
+        {
+          "name": "中丸入口",
+          "latitude": 35.518421,
+          "longitude": 139.503824
+        },
+        {
+          "name": "中山谷",
+          "latitude": 35.520992,
+          "longitude": 139.507833
+        },
+        {
+          "name": "十日市場",
+          "latitude": 35.524452,
+          "longitude": 139.510741
+        },
+        {
+          "name": "十日市場駅前",
+          "latitude": 35.526149,
+          "longitude": 139.516463
+        }
+      ]
+    },
+    {
+      "courseId": "0001600003",
+      "route": "65系統",
+      "destination": "地区公園前経由 青葉台駅行",
+      "direction": "up",
+      "stopCount": 17,
+      "stops": [
+        {
+          "name": "若葉台中央",
+          "latitude": 35.506394,
+          "longitude": 139.498429
+        },
+        {
+          "name": "地区公園",
+          "latitude": 35.503531,
+          "longitude": 139.496268
+        },
+        {
+          "name": "若葉台南",
+          "latitude": 35.501519,
+          "longitude": 139.501347
+        },
+        {
+          "name": "若葉台近隣公園前",
+          "latitude": 35.502945,
+          "longitude": 139.503977
+        },
+        {
+          "name": "若葉台中学校前",
+          "latitude": 35.506046,
+          "longitude": 139.503279
+        },
+        {
+          "name": "霧が丘高校前",
+          "latitude": 35.510513,
+          "longitude": 139.502913
+        },
+        {
+          "name": "霧が丘公園前",
+          "latitude": 35.512526,
+          "longitude": 139.500712
+        },
+        {
+          "name": "霧ケ谷",
+          "latitude": 35.516072,
+          "longitude": 139.500128
+        },
+        {
+          "name": "中丸入口",
+          "latitude": 35.518421,
+          "longitude": 139.503824
+        },
+        {
+          "name": "中山谷",
+          "latitude": 35.520992,
+          "longitude": 139.507833
+        },
+        {
+          "name": "十日市場",
+          "latitude": 35.524452,
+          "longitude": 139.510741
+        },
+        {
+          "name": "十日市場駅前",
+          "latitude": 35.526139,
+          "longitude": 139.515877
+        },
+        {
+          "name": "青葉台営業所前",
+          "latitude": 35.531762,
+          "longitude": 139.517242
+        },
+        {
+          "name": "しらとり台",
+          "latitude": 35.534332,
+          "longitude": 139.517397
+        },
+        {
+          "name": "つつじが丘（青葉区）",
+          "latitude": 35.537013,
+          "longitude": 139.517149
+        },
+        {
+          "name": "えのき橋",
+          "latitude": 35.541304,
+          "longitude": 139.516366
+        },
+        {
+          "name": "青葉台駅",
+          "latitude": 35.543953,
+          "longitude": 139.516906
+        }
+      ]
+    },
+    {
+      "courseId": "0001600125",
+      "route": "65系統",
+      "destination": "地区公園前経由 十日市場駅前行",
+      "direction": "up",
+      "stopCount": 12,
+      "stops": [
+        {
+          "name": "若葉台中央",
+          "latitude": 35.506394,
+          "longitude": 139.498429
+        },
+        {
+          "name": "地区公園",
+          "latitude": 35.503531,
+          "longitude": 139.496268
+        },
+        {
+          "name": "若葉台南",
+          "latitude": 35.501519,
+          "longitude": 139.501347
+        },
+        {
+          "name": "若葉台近隣公園前",
+          "latitude": 35.502945,
+          "longitude": 139.503977
+        },
+        {
+          "name": "若葉台中学校前",
+          "latitude": 35.506046,
+          "longitude": 139.503279
+        },
+        {
+          "name": "霧が丘高校前",
+          "latitude": 35.510513,
+          "longitude": 139.502913
+        },
+        {
+          "name": "霧が丘公園前",
+          "latitude": 35.512526,
+          "longitude": 139.500712
+        },
+        {
+          "name": "霧ケ谷",
+          "latitude": 35.516072,
+          "longitude": 139.500128
+        },
+        {
+          "name": "中丸入口",
+          "latitude": 35.518421,
+          "longitude": 139.503824
+        },
+        {
+          "name": "中山谷",
+          "latitude": 35.520992,
+          "longitude": 139.507833
+        },
+        {
+          "name": "十日市場",
+          "latitude": 35.524452,
+          "longitude": 139.510741
+        },
+        {
+          "name": "十日市場駅前",
+          "latitude": 35.526149,
+          "longitude": 139.516463
         }
       ]
     }
