@@ -65,42 +65,7 @@ courses = [
     "destination": "星槎高校前経由 若葉台中央行",
     "direction": "wakabadai"
 },
-{
-    "courseId": "0001600345",
-    "route": "41系統",
-    "destination": "太尾住宅経由 川向折返場行",
-    "direction": "up"
-},
-{
-    "courseId": "0001601359",
-    "route": "41系統",
-    "destination": "太尾住宅経由 川向折返場行",
-    "direction": "up"
-},
-{
-    "courseId": "0001601363",
-    "route": "41系統",
-    "destination": "下町会館前経由 中山駅北口行",
-    "direction": "up"
-},
-{
-    "courseId": "0001601365",
-    "route": "41系統",
-    "destination": "下町会館前経由 中山駅北口行",
-    "direction": "up"
-},
-{
-    "courseId": "0001601272",
-    "route": "28系統",
-    "destination": "ららぽーと横浜経由 新羽駅行",
-    "direction": "nippa"
-},
-{
-    "courseId": "0001601271",
-    "route": "28系統",
-    "destination": "ららぽーと横浜経由 中山駅北口行",
-    "direction": "nippa"
-},
+
 ]
 
 headers = {
